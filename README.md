@@ -5,15 +5,15 @@ Este repositório serve para a organização e entrega dasaatividades da discipl
 
 ## Unidade I
 
-#### [Seção 2 - Manipulando pixels em uma imagem](Aula_2/2.ipynb)
+#### [Seção 2 - Manipulando pixels em uma imagem](https://nbviewer.jupyter.org/github/dlflor/DCA0445_PDI/blob/master/Aula_2/2.ipynb)
 
-#### [Seção 3 - Preenchendo regiões](Aula_3/3.ipynb)
+#### [Seção 3 - Preenchendo regiões](https://nbviewer.jupyter.org/github/dlflor/DCA0445_PDI/blob/master/Aula_3/3.ipynb)
 
-#### [Seção 4 - Manipulação de Histogramas](Aula_4/4.ipynb)
+#### [Seção 4 - Manipulação de Histogramas](https://nbviewer.jupyter.org/github/dlflor/DCA0445_PDI/blob/master/Aula_4/4.ipynb)
 
-#### [Seção 5 - Filtragem no Domínio Espacial I](Aula_5/5.ipynb)
+#### [Seção 5 - Filtragem no Domínio Espacial I](https://nbviewer.jupyter.org/github/dlflor/DCA0445_PDI/blob/master/Aula_5/5.ipynb)
 
-#### [Seção 6 - Filtragem no Domínio Espacial II (aind afazendo o upload!)](Aula_6/6.ipynb) 
+#### [Seção 6 - Filtragem no Domínio Espacial II (aind afazendo o upload!)](https://nbviewer.jupyter.org/github/dlflor/DCA0445_PDI/blob/master/Aula_6/6.ipynb) 
 
 
 

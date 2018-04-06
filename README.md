@@ -5,15 +5,16 @@ Este repositório serve para a organização e entrega dasaatividades da discipl
 
 ## Unidade I
 
-#### [Seção 2 - Manipulando pixels em uma imagem](HO_00/maquina_virtual.JPG)
+#### [Seção 2 - Manipulando pixels em uma imagem](Aula_2/2.ipynb)
 
-#### Seção 3 - Preenchendo regiões 
+#### [Seção 3 - Preenchendo regiões](Aula_3/3.ipynb)
 
-#### Seção 4 - Manipulação de Histogramas
+#### [Seção 4 - Manipulação de Histogramas](Aula_4/4.ipynb)
 
-#### Seção 5 - Filtragem no Domínio Espacial I
+#### [Seção 5 - Filtragem no Domínio Espacial I](Aula_5/5.ipynb)
 
-#### Seção 6 - Filtragem no Domínio Espacial II
+#### [Seção 6 - Filtragem no Domínio Espacial II (aind afazendo o upload!)](Aula_6/6.ipynb) 
+
 
 
 

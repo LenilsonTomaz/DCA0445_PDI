@@ -1,6 +1,6 @@
 # DCA0445 - Processamento Digital de Imagens (Daniel Flor)
 
-Este repositório serve para a organização e entrega dasaatividades da disciplina DCA0445 (2018.1). No diretório de cada tópico esto inclusos os códigos escitros e as imagens geradas. Nos links abaixo, os relatórios de cada atividade.
+Este repositório serve para a organização e entrega das atividades da disciplina DCA0445 (2018.1). No diretório de cada tópico estão inclusos os códigos escritos e as imagens geradas. Nos links abaixo, os relatórios de cada atividade.
 
 
 ## Unidade I
@@ -13,7 +13,7 @@ Este repositório serve para a organização e entrega dasaatividades da discipl
 
 #### [Seção 5 - Filtragem no Domínio Espacial I](https://nbviewer.jupyter.org/github/dlflor/DCA0445_PDI/blob/master/Aula_5/5.ipynb)
 
-#### [Seção 6 - Filtragem no Domínio Espacial II (aind afazendo o upload!)](https://nbviewer.jupyter.org/github/dlflor/DCA0445_PDI/blob/master/Aula_6/6.ipynb) 
+#### [Seção 6 - Filtragem no Domínio Espacial II](https://nbviewer.jupyter.org/github/dlflor/DCA0445_PDI/blob/master/Aula_6/6.ipynb) 
 
 
 

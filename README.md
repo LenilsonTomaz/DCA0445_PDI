@@ -1,4 +1,4 @@
-# DCA0445 - Processamento Digital de Imagens
+# DCA0445 - Processamento Digital de Imagens (Daniel Flor)
 
 Este repositório serve para a organização e entrega dasaatividades da disciplina DCA0445 (2018.1). No diretório de cada tópico esto inclusos os códigos escitros e as imagens geradas. Nos links abaixo, os relatórios de cada atividade.
 

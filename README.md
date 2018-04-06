@@ -13,7 +13,7 @@ Este repositório serve para a organização e entrega das atividades da discipl
 
 #### [Seção 5 - Filtragem no Domínio Espacial I](https://nbviewer.jupyter.org/github/dlflor/DCA0445_PDI/blob/master/Aula_5/5.ipynb)
 
-#### [Seção 6 - Filtragem no Domínio Espacial II](https://nbviewer.jupyter.org/github/dlflor/DCA0445_PDI/blob/master/Aula_6/6.ipynb) 
+#### [Seção 6 - Filtragem no Domínio Espacial II](https://nbviewer.jupyter.org/github/dlflor/DCA0445_PDI/blob/master/Aula_6/6v.ipynb) 
 
 
 
